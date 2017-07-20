@@ -1,0 +1,22 @@
+{
+    "name": "ph0ton/db",
+    "type": "class",
+    "description": "MyLocal description",
+    "keywords": ["PDO","php"],
+    "homepage": "https://github.com/Zilus/pdo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodriguez Jean Joël",
+            "email": "lib@mydomain.com  ",
+            "homepage": "https://mydomain.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.1"
+    },
+    "autoload": {
+        "files": ["lib/test.php"]
+    }
+}
