@@ -3,7 +3,7 @@
     "type": "class",
     "description": "MyLocal description",
     "keywords": ["PDO","php"],
-    "homepage": "https://github.com/Zilus/pdo",
+    "homepage": "https://github.com/ph0ton/db",
     "license": "MIT",
     "authors": [
         {
